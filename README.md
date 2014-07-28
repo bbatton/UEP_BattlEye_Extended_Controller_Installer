@@ -4,8 +4,9 @@ This an installer specifically made to allow for easy and proper installation of
 
 # Table of Contents:
 * [Features](https://github.com/bbatton/UEP_BattlEye_Extended_Controller_Installer#features)
-* [Using Installer](https://github.com/bbatton/UEP_BattlEye_Extended_Controller_Installer#InstallerInstructions)
-* [Terms of Use](https://github.com/bbatton/UEP_BattlEye_Extended_Controller_Installer#TermsOfUse)
+* [Installer Instructions](https://github.com/bbatton/UEP_BattlEye_Extended_Controller_Installer#installer-instructions)
+* [Error Reporting](https://github.com/bbatton/UEP_BattlEye_Extended_Controller_Installer#error-reporting)
+* [Terms of Use](https://github.com/bbatton/UEP_BattlEye_Extended_Controller_Installer#terms-of-use)
 
 # Features:
 
