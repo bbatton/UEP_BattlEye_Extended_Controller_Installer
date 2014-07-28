@@ -26,7 +26,7 @@ This an installer specifically made to allow for easy and proper installation of
 # Installer Instructions
 
 
-1. Click ***[Download Zip](https://github.com/bbatton/UEP_BEC_Installer/archive/master.zip)*** on the right sidebar of this Github page.
+1. Click ***[Download Zip](https://github.com/bbatton/UEP_BattlEye_Extended_Controller_Installer/archive/master.zip)*** on the right sidebar of this Github page.
 
 
 1. Extract the zip file from your downloads folder with winrar or 7zip
