@@ -1,3 +1,6 @@
+#This Software Has Depricatied. BEC Software No Longer Available.
+
+
 Unified Epoch Project BattlEye Extended Controller Installer
 ============================================================
 This an installer specifically made to allow for easy and proper installation of BEC into Epoch Servers on any map.
