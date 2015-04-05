@@ -1,9 +1,7 @@
-#This Software Has Depricatied. BEC Software No Longer Available.
-
 
 Unified Epoch Project BattlEye Extended Controller Installer
 ============================================================
-This an installer specifically made to allow for easy and proper installation of BEC into Epoch Servers on any map.
+This an installer specifically made to allow for easy and proper installation of BEC into Epoch Servers on any map. This installer has been updated to pull from a working BEC repo for ARMA 2.
 
 # Table of Contents:
 * [Features](https://github.com/bbatton/UEP_BattlEye_Extended_Controller_Installer#features)
