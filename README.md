@@ -1,7 +1,7 @@
 
 Unified Epoch Project BattlEye Extended Controller Installer
 ============================================================
-This an installer specifically made to allow for easy and proper installation of BEC into Epoch Servers on any map. This installer has been updated to pull from a BEC repo for ARMA 2. Currently BEC still auto terminates.
+This an installer specifically made to allow for easy and proper installation of BEC into Epoch Servers on any map. This installer is officially no longer supported as BEC the software it installs is no longer in a working state with no change in the near future.
 
 # Table of Contents:
 * [Features](https://github.com/bbatton/UEP_BattlEye_Extended_Controller_Installer#features)
